@@ -1,0 +1,12 @@
+product_dependency:
+  ../../qt/tqtc-qt5:
+    ref: "tqtc/6.6.0"
+dependency_source: supermodule
+dependencies: [
+      "../../qt/tqtc-qtbase.git",
+      "../../qt/qtsvg.git",
+      "../../qt/qtdeclarative.git",
+      "../../qt/qttools.git",
+      "../../qt/qttranslations.git",
+      "../../qt/qt5compat.git",
+      ]
